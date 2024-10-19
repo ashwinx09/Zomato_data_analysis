@@ -1,2 +1,1 @@
-# Zomato_data_analysis
-This project involves an in depth analysis of Zomato’s dataset to uncover key insights related to restaurant trends, customer preferences, and performance metrics. 
+<img src="https://github.com/ashwinx09/Zomato_data_analysis/blob/main/Description.png" alt="Zomato Data Analysis" width="1000"/>

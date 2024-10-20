@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-This project delivers comprehensive insights into Zomato's sales data, analyzing key issues, trends, and performance drivers across the platform. It is designed to offer **actionable solutions for decision-makers, based on detailed data breakdowns and visualizations. The accompanying presentation dives deep into the data, with each graph, chart, and metric thoroughly explained.
+This project delivers comprehensive insights into Zomato's sales data, analyzing key issues, trends, and performance drivers across the platform. It is designed to offer actionable solutions for decision-makers, based on detailed data breakdowns and visualizations. The accompanying presentation dives deep into the data, with each graph, chart, and metric thoroughly explained.
 
 > Walkthrough to my python code: [**Source Code**](https://github.com/ashwinx09/Zomato_data_analysis/blob/main/Zomato_data_analysis.ipynb)
 
